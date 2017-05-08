@@ -1678,8 +1678,8 @@
                 <Property name="ReferencedNodeID" value="363"/>
             </FlowNode>
             <FlowNode class="com.avaya.sce.callflow.internal.appflow.SymbolicNode" id="592" version="3.1">
-                <Property name="FlowNodeEditPart.WidgetX" value="2353"/>
-                <Property name="FlowNodeEditPart.WidgetY" value="-48"/>
+                <Property name="FlowNodeEditPart.WidgetX" value="2516"/>
+                <Property name="FlowNodeEditPart.WidgetY" value="-45"/>
                 <Property name="ReferencedNodeID" value="752"/>
             </FlowNode>
             <FlowNode class="com.avaya.sce.callflow.internal.appflow.Data" id="1234" version="3.1">
@@ -3336,7 +3336,7 @@
                 <TargetNode id="592"/>
                 <Property name="Connection.SourceObjectID" value="1212"/>
                 <Property name="Connection.TargetObjectID" value="592"/>
-                <Bendpoint x="1959" y="45"/>
+                <Bendpoint x="1942" y="39"/>
             </NodeConnection>
         </FlowGraph>
         <ProjectEventTypes/>
